@@ -1,0 +1,48 @@
+.not-found-data {
+  height: 100%;
+  width: 100vw;
+  background-color: #161625;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.container-not-found {
+  height: 100vh;
+  overflow: hidden;
+}
+
+.not-found-image {
+}
+.not-found-title {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 32px;
+  line-height: 48px;
+  text-align: center;
+  color: #cbd5e1;
+}
+
+.not-found-para {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 32px;
+  text-align: center;
+  color: #94a3b8;
+}
+
+.home-button {
+  background: #2563eb;
+  border-radius: 12px;
+  color: #ffffff;
+  padding: 12px 24px;
+  border: none;
+}
+
+.button-container {
+  text-align: center;
+}

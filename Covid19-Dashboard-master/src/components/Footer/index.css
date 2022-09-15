@@ -1,0 +1,32 @@
+.logo {
+  font-family: Bree Serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 24px;
+  color: #f8fafc;
+  text-align: center;
+}
+.india {
+  color: #3b82f6;
+}
+
+.tagline {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 24px;
+  text-align: center;
+  color: #94a3b8;
+}
+
+.icon {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 52.9233px;
+  line-height: 61px;
+  text-align: center;
+  color: #cbd5e1;
+  margin: 0px 32px;
+}
